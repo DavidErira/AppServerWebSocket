@@ -14,10 +14,10 @@ La aplicación crea un socket en el cliente conectado al servidor, del lado del 
 La idea de esta aplicación es mostrar la comunicación bidireccional en tiempo real de los websockets.
 
 
-![visualización](https://raw.githubusercontent.com/DavidErira/AppServerWebSocket/master/Captura1.png)
+![visualización](https://raw.githubusercontent.com/DavidErira/AppServerWebSocket/master/Captura1.PNG)
 
 
-![visualización](https://raw.githubusercontent.com/DavidErira/AppServerWebSocket/master/Captura2.png)
+![visualización](https://raw.githubusercontent.com/DavidErira/AppServerWebSocket/master/Captura2.PNG)
 ## Construido con 🛠️
 
 _Menciona las herramientas que utilizaste para crear tu proyecto_
