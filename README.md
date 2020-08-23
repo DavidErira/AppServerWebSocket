@@ -18,10 +18,8 @@ La idea de esta aplicación es mostrar la comunicación bidireccional en tiempo 
 
 
 ![visualización](https://raw.githubusercontent.com/DavidErira/AppServerWebSocket/master/Captura2.PNG)
+
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
-
 * [Express](https://www.express.com/) - Marco de desarrollo
 * [Node](https://nodejs.org/es/) -  para los que quieran instalar node.js
 * [Socket.io](https://socket.io/) - Framework utilizado 
@@ -29,8 +27,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 ## Autor
  ✒️
 * **David Erira** - *Desarrollo* - [villanuevand](https://github.com/villanuevand)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 * Comenta a otros sobre este proyecto 📢
 
