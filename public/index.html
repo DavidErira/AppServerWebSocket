@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"> 
+        <title>WebSockets</title>
+        <link rel="stylesheet" href="main.css">
+        <link href="https://fonts.googleapis.com/css2?family=Comfortaa&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div id ="title-container">
+            <h1>Esta es una APP con Websockets</h1>
+            <h4> Express - Websockets.io</h4>
+        </div>
+      
+        <div id = "variable-container">
+           
+            <div id ="variable-window">
+                <div id = "output"></div>
+            </div>
+
+            <input type="text" id ="username" placeholder="¿Quien eres?"> 
+            <input type="text" id ="message" placeholder="Actualiza la variable aquí"> 
+            <button id="send">Actualizar</button>
+        </div>
+        <script src = "/socket.io/socket.io.js" charset = "utf-8"></script>
+        <script src = "app.js" charset = "utf-8"></script>
+    </body>
+</html>
