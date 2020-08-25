@@ -1,11 +1,11 @@
 # WebsocketServer
 
-Es una aplicación web completa para el servidor, en la carpeta public estan los archivos de front-end para el cliente, se escribió sobre el marco de express en el entorno de node.js  y se realiza la implementacipon se websockets mediante el framework socket.io  
+Es una aplicación web completa para el servidor, en la carpeta public estan los archivos de front-end para el cliente, se escribió sobre el marco de express en el entorno de node.js  y se realiza la implementación de websockets mediante el framework socket.io  
 
 
 ## Comenzando 🚀
 
-Para usar el codigo debes tener instalado en tumaquina node.js, puedes utilizar el comando "npm run dev" para lanzar el codigo con nodemon o "npm star" para lanzarlo solamente bajo npm 
+Para usar el codigo debes tener instalado en tu maquina node.js, puedes utilizar el comando "npm run dev" lanzando el codigo con nodemon o "npm star" para lanzarlo solamente bajo npm 
 
 ### Funcionamiento 📋
 
@@ -26,7 +26,7 @@ La idea de esta aplicación es mostrar la comunicación bidireccional en tiempo 
 
 ## Autor
  ✒️
-* **David Erira** - *Desarrollo* - [villanuevand](https://github.com/villanuevand)
+* **David Erira** - *Desarrollo* - [DEEM](https://github.com/DavidErira)
 
 * Comenta a otros sobre este proyecto 📢
 
